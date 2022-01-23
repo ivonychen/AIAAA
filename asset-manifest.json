@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ivonychen/AIAInvest/static/css/main.4b2a47f5.chunk.css",
-    "main.js": "/ivonychen/AIAInvest/static/js/main.82801192.chunk.js",
-    "runtime-main.js": "/ivonychen/AIAInvest/static/js/runtime-main.f52b2e9b.js",
-    "static/js/2.95d2e6bb.chunk.js": "/ivonychen/AIAInvest/static/js/2.95d2e6bb.chunk.js",
-    "static/js/3.021c4934.chunk.js": "/ivonychen/AIAInvest/static/js/3.021c4934.chunk.js",
-    "index.html": "/ivonychen/AIAInvest/index.html",
-    "static/js/2.95d2e6bb.chunk.js.LICENSE.txt": "/ivonychen/AIAInvest/static/js/2.95d2e6bb.chunk.js.LICENSE.txt"
+    "main.css": "/AIAInvest/static/css/main.4b2a47f5.chunk.css",
+    "main.js": "/AIAInvest/static/js/main.82801192.chunk.js",
+    "runtime-main.js": "/AIAInvest/static/js/runtime-main.fcae218e.js",
+    "static/js/2.73c59bef.chunk.js": "/AIAInvest/static/js/2.73c59bef.chunk.js",
+    "static/js/3.021c4934.chunk.js": "/AIAInvest/static/js/3.021c4934.chunk.js",
+    "index.html": "/AIAInvest/index.html",
+    "static/js/2.73c59bef.chunk.js.LICENSE.txt": "/AIAInvest/static/js/2.73c59bef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f52b2e9b.js",
-    "static/js/2.95d2e6bb.chunk.js",
+    "static/js/runtime-main.fcae218e.js",
+    "static/js/2.73c59bef.chunk.js",
     "static/css/main.4b2a47f5.chunk.css",
     "static/js/main.82801192.chunk.js"
   ]
