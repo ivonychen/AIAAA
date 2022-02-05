@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AIAInvest/static/css/main.06a9b039.chunk.css",
-    "main.js": "/AIAInvest/static/js/main.b7ea8d96.chunk.js",
-    "runtime-main.js": "/AIAInvest/static/js/runtime-main.fcae218e.js",
-    "static/js/2.d25efff5.chunk.js": "/AIAInvest/static/js/2.d25efff5.chunk.js",
-    "static/js/3.021c4934.chunk.js": "/AIAInvest/static/js/3.021c4934.chunk.js",
-    "index.html": "/AIAInvest/index.html",
-    "static/js/2.d25efff5.chunk.js.LICENSE.txt": "/AIAInvest/static/js/2.d25efff5.chunk.js.LICENSE.txt"
+    "main.css": "/AIAAA/static/css/main.06a9b039.chunk.css",
+    "main.js": "/AIAAA/static/js/main.b7ea8d96.chunk.js",
+    "runtime-main.js": "/AIAAA/static/js/runtime-main.304422aa.js",
+    "static/js/2.81fd814d.chunk.js": "/AIAAA/static/js/2.81fd814d.chunk.js",
+    "static/js/3.021c4934.chunk.js": "/AIAAA/static/js/3.021c4934.chunk.js",
+    "index.html": "/AIAAA/index.html",
+    "static/js/2.81fd814d.chunk.js.LICENSE.txt": "/AIAAA/static/js/2.81fd814d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcae218e.js",
-    "static/js/2.d25efff5.chunk.js",
+    "static/js/runtime-main.304422aa.js",
+    "static/js/2.81fd814d.chunk.js",
     "static/css/main.06a9b039.chunk.css",
     "static/js/main.b7ea8d96.chunk.js"
   ]
