@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/AIAInvest/static/css/main.06a9b039.chunk.css",
-    "main.js": "/AIAInvest/static/js/main.c7f88e84.chunk.js",
+    "main.js": "/AIAInvest/static/js/main.b7ea8d96.chunk.js",
     "runtime-main.js": "/AIAInvest/static/js/runtime-main.fcae218e.js",
-    "static/js/2.73c59bef.chunk.js": "/AIAInvest/static/js/2.73c59bef.chunk.js",
+    "static/js/2.d25efff5.chunk.js": "/AIAInvest/static/js/2.d25efff5.chunk.js",
     "static/js/3.021c4934.chunk.js": "/AIAInvest/static/js/3.021c4934.chunk.js",
     "index.html": "/AIAInvest/index.html",
-    "static/js/2.73c59bef.chunk.js.LICENSE.txt": "/AIAInvest/static/js/2.73c59bef.chunk.js.LICENSE.txt"
+    "static/js/2.d25efff5.chunk.js.LICENSE.txt": "/AIAInvest/static/js/2.d25efff5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fcae218e.js",
-    "static/js/2.73c59bef.chunk.js",
+    "static/js/2.d25efff5.chunk.js",
     "static/css/main.06a9b039.chunk.css",
-    "static/js/main.c7f88e84.chunk.js"
+    "static/js/main.b7ea8d96.chunk.js"
   ]
 }
