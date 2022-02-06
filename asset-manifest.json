@@ -1,23 +1,18 @@
 {
   "files": {
-    "main.css": "/AIAAA/static/css/main.1179c1e9.chunk.css",
+    "main.css": "/AIAAA/static/css/main.ee375c7b.chunk.css",
     "main.js": "/AIAAA/static/js/main.3f153236.chunk.js",
-    "main.js.map": "/AIAAA/static/js/main.3f153236.chunk.js.map",
     "runtime-main.js": "/AIAAA/static/js/runtime-main.0c3e4dcf.js",
-    "runtime-main.js.map": "/AIAAA/static/js/runtime-main.0c3e4dcf.js.map",
     "static/js/2.3645aeb1.chunk.js": "/AIAAA/static/js/2.3645aeb1.chunk.js",
-    "static/js/2.3645aeb1.chunk.js.map": "/AIAAA/static/js/2.3645aeb1.chunk.js.map",
     "static/js/3.fd83adde.chunk.js": "/AIAAA/static/js/3.fd83adde.chunk.js",
-    "static/js/3.fd83adde.chunk.js.map": "/AIAAA/static/js/3.fd83adde.chunk.js.map",
     "index.html": "/AIAAA/index.html",
-    "static/css/main.1179c1e9.chunk.css.map": "/AIAAA/static/css/main.1179c1e9.chunk.css.map",
     "static/js/2.3645aeb1.chunk.js.LICENSE.txt": "/AIAAA/static/js/2.3645aeb1.chunk.js.LICENSE.txt",
     "static/media/getFetch.cjs": "/AIAAA/static/media/getFetch.582d29c4.cjs"
   },
   "entrypoints": [
     "static/js/runtime-main.0c3e4dcf.js",
     "static/js/2.3645aeb1.chunk.js",
-    "static/css/main.1179c1e9.chunk.css",
+    "static/css/main.ee375c7b.chunk.css",
     "static/js/main.3f153236.chunk.js"
   ]
 }
