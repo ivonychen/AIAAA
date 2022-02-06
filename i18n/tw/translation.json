@@ -41,5 +41,6 @@
   "stop_loss_point_warning": "停損值必須大於0",
   "lock_in_gain_warning": "停利值必須大於0",
   "stock_add_warning": "股票代號必須輸入",
-  "select_confidence": "請選擇信心度"
+  "select_confidence": "請選擇信心度",
+  "data_empty_msg": "沒有資料"
 }

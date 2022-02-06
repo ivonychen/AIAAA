@@ -44,5 +44,6 @@
    "stop_loss_point_warning": "Stop-loss point is must greater than 0",
    "lock_in_gain_warning": "Lock in gain is must greater than 0",
    "stock_add_warning": "Stock Code is needed",
-   "select_confidence": "Select a confidence value"
+   "select_confidence": "Select a confidence value",
+   "data_empty_msg": "No data is available"
 }
