@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/AIAAA/static/css/main.ee375c7b.chunk.css",
-    "main.js": "/AIAAA/static/js/main.14a49e47.chunk.js",
-    "runtime-main.js": "/AIAAA/static/js/runtime-main.0c3e4dcf.js",
-    "static/js/2.3645aeb1.chunk.js": "/AIAAA/static/js/2.3645aeb1.chunk.js",
-    "static/js/3.fd83adde.chunk.js": "/AIAAA/static/js/3.fd83adde.chunk.js",
+    "main.css": "/AIAAA/static/css/main.c8efade8.chunk.css",
+    "main.js": "/AIAAA/static/js/main.24a742ec.chunk.js",
+    "runtime-main.js": "/AIAAA/static/js/runtime-main.45a0cb25.js",
+    "static/js/2.e6a5d57b.chunk.js": "/AIAAA/static/js/2.e6a5d57b.chunk.js",
+    "static/js/3.2e858f56.chunk.js": "/AIAAA/static/js/3.2e858f56.chunk.js",
+    "static/js/4.bf206a7b.chunk.js": "/AIAAA/static/js/4.bf206a7b.chunk.js",
     "index.html": "/AIAAA/index.html",
-    "static/js/2.3645aeb1.chunk.js.LICENSE.txt": "/AIAAA/static/js/2.3645aeb1.chunk.js.LICENSE.txt",
+    "static/js/2.e6a5d57b.chunk.js.LICENSE.txt": "/AIAAA/static/js/2.e6a5d57b.chunk.js.LICENSE.txt",
+    "static/js/3.2e858f56.chunk.js.LICENSE.txt": "/AIAAA/static/js/3.2e858f56.chunk.js.LICENSE.txt",
     "static/media/getFetch.cjs": "/AIAAA/static/media/getFetch.582d29c4.cjs"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c3e4dcf.js",
-    "static/js/2.3645aeb1.chunk.js",
-    "static/css/main.ee375c7b.chunk.css",
-    "static/js/main.14a49e47.chunk.js"
+    "static/js/runtime-main.45a0cb25.js",
+    "static/js/2.e6a5d57b.chunk.js",
+    "static/css/main.c8efade8.chunk.css",
+    "static/js/main.24a742ec.chunk.js"
   ]
 }

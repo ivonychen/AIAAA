@@ -10,8 +10,9 @@
       "asset_allocation": 0.4,
       "roi": 0.05,
       "asset_money": 0,
-      "positive_roi_money":0,
-      "negative_roi_money":0
+      "positive_roi_money": 0,
+      "avg_roi_money": 0,
+      "negative_roi_money": 0
     },
     {
       "id": "2",
@@ -23,8 +24,9 @@
       "asset_allocation": 0.3,
       "roi": 0.1,
       "asset_money": 0,
-      "positive_roi_money":0,
-      "negative_roi_money":0
+      "positive_roi_money": 0,
+      "avg_roi_money": 0,
+      "negative_roi_money": 0
     },
     {
       "id": "3",
@@ -36,8 +38,9 @@
       "asset_allocation": 0.6,
       "roi": 0.2,
       "asset_money": 0,
-      "positive_roi_money":0,
-      "negative_roi_money":0
+      "positive_roi_money": 0,
+      "avg_roi_money": 0,
+      "negative_roi_money": 0
     },
     {
       "id": "4",
@@ -49,8 +52,9 @@
       "asset_allocation": 0.5,
       "roi": 0.2,
       "asset_money": 0,
-      "positive_roi_money":0,
-      "negative_roi_money":0
+      "positive_roi_money": 0,
+      "avg_roi_money": 0,
+      "negative_roi_money": 0
     },
     {
       "id": "5",
@@ -62,8 +66,9 @@
       "asset_allocation": 0.5,
       "roi": 2,
       "asset_money": 0,
-      "positive_roi_money":0,
-      "negative_roi_money":0
+      "positive_roi_money": 0,
+      "avg_roi_money": 0,
+      "negative_roi_money": 0
     }
   ]
 }
