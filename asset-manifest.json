@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AIAAA/static/css/main.c8efade8.chunk.css",
-    "main.js": "/AIAAA/static/js/main.18a783ed.chunk.js",
+    "main.css": "/AIAAA/static/css/main.7fbc63a0.chunk.css",
+    "main.js": "/AIAAA/static/js/main.5c4f2837.chunk.js",
     "runtime-main.js": "/AIAAA/static/js/runtime-main.45a0cb25.js",
     "static/js/2.e6a5d57b.chunk.js": "/AIAAA/static/js/2.e6a5d57b.chunk.js",
     "static/js/3.2e858f56.chunk.js": "/AIAAA/static/js/3.2e858f56.chunk.js",
@@ -14,7 +14,7 @@
   "entrypoints": [
     "static/js/runtime-main.45a0cb25.js",
     "static/js/2.e6a5d57b.chunk.js",
-    "static/css/main.c8efade8.chunk.css",
-    "static/js/main.18a783ed.chunk.js"
+    "static/css/main.7fbc63a0.chunk.css",
+    "static/js/main.5c4f2837.chunk.js"
   ]
 }
